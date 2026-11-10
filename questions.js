@@ -445,7 +445,7 @@ const questionsData = [
   },
   {
     "id": 38,
-    "question": "Tatsuya went home early today (　{0}　) he could prepare dinner for his wife.",
+    "question": "Tatsuya went home early today (　　) he could prepare dinner for his wife.",
     "choices": [
       "①so that",
       "②as for",
@@ -517,7 +517,7 @@ const questionsData = [
   },
   {
     "id": 44,
-    "question": "We won't be getting married (　{0}　) we've saved enough money.",
+    "question": "We won't be getting married (　　) we've saved enough money.",
     "choices": [
       "①as",
       "②if",
@@ -553,7 +553,7 @@ const questionsData = [
   },
   {
     "id": 47,
-    "question": "Don't touch my writing-table; leave it (　{0}　) it is.",
+    "question": "Don't touch my writing-table; leave it (　　) it is.",
     "choices": [
       "①as",
       "②if",
@@ -625,7 +625,7 @@ const questionsData = [
   },
   {
     "id": 53,
-    "question": "Neither Takeshi's mother (　{0}　) English.",
+    "question": "Neither Takeshi's mother (　　) English.",
     "choices": [
       "①or his father speak",
       "②and his father speak",
@@ -1189,7 +1189,7 @@ const questionsData = [
   },
   {
     "id": 100,
-    "question": "(　{0}　) far as the eye could see, the vast desert stretched endlessly beneath the burning sun.",
+    "question": "(　　) far as the eye could see, the vast desert stretched endlessly beneath the burning sun.",
     "choices": [
       "①As",
       "②So",
